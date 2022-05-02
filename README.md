@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [www.isaacbe.com](www.isaacbe.com)
 
-- 💬 Ask me about **C#,UWP,WPF,Windows Forms,API,SQL**
+- 💬 Ask me about **C#,UWP,WPF,Windows Forms,API,SQL,ASP.NET,Blazor,.Net Core**
 
 - 📫Reach me at **isaac.bebawy@gmail.com**
 
