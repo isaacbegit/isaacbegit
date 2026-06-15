@@ -84,10 +84,9 @@ Building scalable enterprise applications, robust integrations, and automation s
 
 ## 🤝 Let's Connect
 
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌍 Portfolio: https://your-portfolio.com
-* 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* 📧 Email: [isaacbebawy@gmail.com](mailto:isaacbebawy@gmail.com)
+* 💼 LinkedIn: www.linkedin.com/in/isaac-bebawy
+* 🐙 GitHub: https://github.com/isaacbegit
 
 ---
 
