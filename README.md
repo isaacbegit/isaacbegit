@@ -1,32 +1,102 @@
-<h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">​Senior Application Development Specialist</h3>
+# 👋 Hi, I'm Isaac
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacbegit&label=Profile%20views&color=0e75b6&style=flat" alt="isaacbegit" /> </p>
+### Integration Developer | C#/.NET Developer | API & Enterprise Solutions
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=isaacbegit" alt="isaacbegit" /></a> </p>
-
-- 🌱 I’m currently learning **Universal Windows platform, Data Analytics**
-
-- 📝 I regularly write articles on [www.isaacbe.com](www.isaacbe.com)
-
-- 💬 Ask me about **C#,UWP,WPF,Windows Forms,API,SQL,ASP.NET,Blazor,.Net Core**
-
-- 📫Reach me at **isaac.bebawy@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/isaac-bebawy/](https://www.linkedin.com/in/isaac-bebawy/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/isaac-bebawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-bebawy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1330461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1330461" height="30" width="40" /></a>
-<a href="https://fb.com/isaac.rezkallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isaac.rezkallah" height="30" width="40" /></a>
+Building scalable enterprise applications, robust integrations, and automation solutions using Microsoft technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacbegit&show_icons=true&locale=en&layout=compact" alt="isaacbegit" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacbegit&show_icons=true&locale=en" alt="isaacbegit" /></p>
+* 💼 Integration Developer
+* 🔹 Specialized in C# and .NET Ecosystem
+* 🔹 REST API Design & Development
+* 🔹 Enterprise Application Integration
+* 🔹 Active Directory & Identity Solutions
+* 🔹 ASP.NET Core, WinForms & WPF
+* 🔹 Business Process Automation
+* 🔹 Software Architecture & Best Practices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbegit&" alt="isaacbegit" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+
+### Integration & APIs
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json\&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?logo=microsoft\&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+
+---
+
+## 🎯 Areas of Expertise
+
+```text
+✔ API Development
+✔ System Integration
+✔ Enterprise Applications
+✔ Active Directory Integration
+✔ Authentication & Authorization
+✔ Process Automation
+✔ Software Architecture
+✔ Database Development
+```
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+* Cloud-Native Development
+* Microservices Architecture
+* Advanced Integration Patterns
+* Modern DevOps Practices
+
+---
+
+## 🤝 Let's Connect
+
+* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🌍 Portfolio: https://your-portfolio.com
+* 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## 💡 Professional Philosophy
+
+> Great software is not only about writing code—it's about connecting systems, simplifying processes, and delivering business value.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my work useful, feel free to explore my repositories and connect with me.
