@@ -13,6 +13,8 @@ Building scalable enterprise applications, robust integrations, and automation s
 * 💼 Integration Developer
 * 🔹 Specialized in C# and .NET Ecosystem
 * 🔹 REST API Design & Development
+* 🔹 Laserfiche ECM Consultant
+* 🔹 Banking System Integrations  
 * 🔹 Enterprise Application Integration
 * 🔹 Active Directory & Identity Solutions
 * 🔹 ASP.NET Core, WinForms & WPF
@@ -67,9 +69,9 @@ Building scalable enterprise applications, robust integrations, and automation s
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacbegit\&show_icons=true\&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbegit\&layout=compact)
 
 ---
 
